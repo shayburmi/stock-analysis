@@ -39,10 +39,14 @@ Through VBA, we used a coded array to compare each stock ticker's own cumulitave
 Within the code, there is a prompt to enter in which year the user would like to look through - allowing them to quickly grab a snapshot of any given year to see how their investments are performing. This is also useful if they are looking to diversify, since they can check on trends of unexplored stocks.
 
 Additionally, through refactoring, I was able to shave some time off of the processing in both 2017
-![2017](RESOURCES/2017_allstocksanalysis.png) ![2017refactored](RESOURCES/2017_refactored.png)
+
+![2017](RESOURCES/2017_allstocksanalysis.png) 
+![2017refactored](RESOURCES/2017_refactored.png)
 
 and 2018
-![2018](RESOURCES/2018_allstockanalysis.png) ![2018refactored](RESOURCES/2018_refactored.png)
+
+![2018](RESOURCES/2018_allstocksanalysis.png) 
+![2018refactored](RESOURCES/2018_refactored.png)
 
 ### Analysis
 Overall we can see that 2017
