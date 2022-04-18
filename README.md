@@ -39,17 +39,17 @@ Through VBA, we used a coded array to compare each stock ticker's own cumulitave
 Within the code, there is a prompt to enter in which year the user would like to look through - allowing them to quickly grab a snapshot of any given year to see how their investments are performing. This is also useful if they are looking to diversify, since they can check on trends of unexplored stocks.
 
 Additionally, through refactoring, I was able to shave some time off of the processing in both 2017
-![2017](2017_allstockanalysis.png) ![2017refactored](2017_refactored.png)
+![2017](resources/2017_allstockanalysis.png) ![2017refactored](resources/2017_refactored.png)
 
 and 2018
-![2018](2018_allstockanalysis.png) ![2018refactored](2018_refactored.png)
+![2018](resources/2018_allstockanalysis.png) ![2018refactored](resources/2018_refactored.png)
 
 ### Analysis
 Overall we can see that 2017
-![2017 Numbers](VBA_Challenge_2017.png)
+![2017 Numbers](resources/VBA_Challenge_2017.png)
 
 Had overall better returns than 2018
-![2018 Numbers](VBA_Challenge_2018.png)
+![2018 Numbers](resources/VBA_Challenge_2018.png)
 
 With significant losses accross all but three stock tickers.
 Based on these numbers, it would be wise to bet on ENPH, RUN, or TERP. These were the most stable stocks from the dataset, though TERP was still looking at a loss. Overall, ENPH saw the greatest growth - but this dataset is not enough to gaurantee that trend.
