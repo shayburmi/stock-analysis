@@ -50,9 +50,11 @@ and 2018
 
 ### Analysis
 Overall we can see that 2017
+
 ![2017 Numbers](RESOURCES/VBA_Challenge_2017.png)
 
 Had overall better returns than 2018
+
 ![2018 Numbers](RESOURCES/VBA_Challenge_2018.png)
 
 With significant losses accross all but three stock tickers.
